@@ -1,0 +1,20 @@
+# Go build artifacts
+/exercise-fsm-generator
+/cmd/exercise-fsm-generator
+
+# Editor and OS files
+*.swp
+*.swo
+*.DS_Store
+.vscode/
+.idea/
+
+# Test cache
+**/testdata/
+**/.testcache/
+
+# Logs
+*.log
+
+# Dependency directories
+vendor/
